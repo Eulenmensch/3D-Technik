@@ -67,9 +67,21 @@ PrefabInstance:
       propertyPath: m_BoundingSphereOverride.w
       value: 7
       objectReference: {fileID: 0}
+    - target: {fileID: 4783918963250362777, guid: 115105d655341304daa587888d3b1b90, type: 3}
+      propertyPath: m_AreaSize.x
+      value: 2.9119139
+      objectReference: {fileID: 0}
+    - target: {fileID: 4783918963250362780, guid: 115105d655341304daa587888d3b1b90, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4783918963250362782, guid: 115105d655341304daa587888d3b1b90, type: 3}
       propertyPath: m_Intensity
       value: 21.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 4783918963250362782, guid: 115105d655341304daa587888d3b1b90, type: 3}
+      propertyPath: m_ShapeWidth
+      value: 2.9119139
       objectReference: {fileID: 0}
     - target: {fileID: 4783918963250362783, guid: 115105d655341304daa587888d3b1b90, type: 3}
       propertyPath: m_LocalPosition.y
