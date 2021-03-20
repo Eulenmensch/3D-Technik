@@ -497,11 +497,11 @@ ScriptedImporter:
     - textureName: Ground_Tiles_Rippled - baseColor
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: Ground_Tiles_Rippled - normal
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: Ground_Tiles_Rippled - roughness
       wrapMode: 0
       filterMode: 1
@@ -513,7 +513,7 @@ ScriptedImporter:
     - textureName: Ground_Tiles_Rippled - height
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: Ground_Tiles_Rippled - ambientOcclusion
       wrapMode: 0
       filterMode: 1

@@ -500,11 +500,11 @@ ScriptedImporter:
     - textureName: White_Wall_Tiles - baseColor
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: White_Wall_Tiles - normal
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: White_Wall_Tiles - roughness
       wrapMode: 0
       filterMode: 1
@@ -516,7 +516,7 @@ ScriptedImporter:
     - textureName: White_Wall_Tiles - height
       wrapMode: 0
       filterMode: 1
-      aniso: 0
+      aniso: 5
     - textureName: White_Wall_Tiles - ambientOcclusion
       wrapMode: 0
       filterMode: 1
@@ -549,13 +549,14 @@ ScriptedImporter:
     generateMipMaps: 1
     preset: " <sbspreset pkgurl=\"pkg://White_Wall_Tiles\" label=\"\" >\n  <presetinput
       identifier=\"$outputsize\" uid=\"123510156\" type=\"8\" value=\"10,10\" />\n 
-      <presetinput identifier=\"rubberColor\" uid=\"1853841242\" type=\"3\" value=\"0.476,0.402284,0.280364,1\"
-      />\n  <presetinput identifier=\"tileColor\" uid=\"1853841277\" type=\"3\" value=\"0.216981,0.216981,0.216981,1\"
-      />\n  <presetinput identifier=\"groutColor\" uid=\"1853841156\" type=\"3\"
-      value=\"0.216981,0.205723,0.183206,1\" />\n  <presetinput identifier=\"metalColor\"
-      uid=\"1853841191\" type=\"3\" value=\"0.179245,0.179245,0.179245,1\" />\n 
-      <presetinput identifier=\"tileGrimeColor\" uid=\"1853841363\" type=\"3\" value=\"0.556604,0.539538,0.45421,1\"
-      />\n </sbspreset>\n"
+      <presetinput identifier=\"$randomseed\" uid=\"1345227742\" type=\"4\" value=\"6655\"
+      />\n  <presetinput identifier=\"rubberColor\" uid=\"1853841242\" type=\"3\"
+      value=\"0.476,0.402284,0.280364,1\" />\n  <presetinput identifier=\"tileColor\"
+      uid=\"1853841277\" type=\"3\" value=\"0.216981,0.216981,0.216981,1\" />\n 
+      <presetinput identifier=\"groutColor\" uid=\"1853841156\" type=\"3\" value=\"0.216981,0.205723,0.183206,1\"
+      />\n  <presetinput identifier=\"metalColor\" uid=\"1853841191\" type=\"3\"
+      value=\"0.179245,0.179245,0.179245,1\" />\n  <presetinput identifier=\"tileGrimeColor\"
+      uid=\"1853841363\" type=\"3\" value=\"0.556604,0.539538,0.45421,1\" />\n </sbspreset>\n"
     shaderName: HDRP/Lit
     materialProperties:
       shader: {fileID: 4800000, guid: 6e4ae4064600d784cac1e41a9e6f2e59, type: 3}
@@ -1036,11 +1037,11 @@ ScriptedImporter:
     - textureName: Dark_Wall_Tiles - baseColor
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: Dark_Wall_Tiles - normal
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: Dark_Wall_Tiles - roughness
       wrapMode: 0
       filterMode: 1
@@ -1052,7 +1053,7 @@ ScriptedImporter:
     - textureName: Dark_Wall_Tiles - height
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: Dark_Wall_Tiles - ambientOcclusion
       wrapMode: 0
       filterMode: 1
@@ -1571,11 +1572,11 @@ ScriptedImporter:
     - textureName: White_Wall_Tiles_Tracks - baseColor
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: White_Wall_Tiles_Tracks - normal
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: White_Wall_Tiles_Tracks - roughness
       wrapMode: 0
       filterMode: 1
@@ -1587,7 +1588,7 @@ ScriptedImporter:
     - textureName: White_Wall_Tiles_Tracks - height
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: White_Wall_Tiles_Tracks - ambientOcclusion
       wrapMode: 0
       filterMode: 1

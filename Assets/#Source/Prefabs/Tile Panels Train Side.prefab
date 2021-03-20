@@ -1,0 +1,258 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4516193732227174617
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7303295178267882307}
+  m_Layer: 0
+  m_Name: Tile Panels Train Side
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7303295178267882307
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4516193732227174617}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5076385534762194844}
+  - {fileID: 5076385534212534120}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &2568301465774945278
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7303295178267882307}
+    m_Modifications:
+    - target: {fileID: 5942880935648226247, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601835441968322, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601835441968329, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601835441968332, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601835441968335, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601835719164812, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_SelectedFaces.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601835719164812, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_SelectedEdges.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601835719164812, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_SelectedVertices.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601835719164812, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601836254118957, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.183382
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.594987
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.37302876
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.00000024234436
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.00000024234436
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 7970616528859021016, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_Name
+      value: Tile Panels White (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7970616528859021016, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 8475121322464124685, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: -5906255330220728890, guid: d6a1edceeb2b8c34fbe0c8b3c16add4e, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+--- !u!4 &5076385534762194844 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+  m_PrefabInstance: {fileID: 2568301465774945278}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2568301466257492746
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7303295178267882307}
+    m_Modifications:
+    - target: {fileID: 5942880935648226247, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601835441968322, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601835441968329, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601835441968332, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601835441968335, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601835719164812, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_SelectedFaces.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601835719164812, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_SelectedEdges.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601835719164812, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_SelectedVertices.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601835719164812, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601836254118957, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7087601836254118957, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.183382
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 7.594987
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.37302876
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.21897748
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.6723459
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.6723459
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.21897748
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -216.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 7970616528859021016, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_Name
+      value: Tile Panels White (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7970616528859021016, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 8475121322464124685, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 429591266187899623, guid: d6a1edceeb2b8c34fbe0c8b3c16add4e, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+--- !u!4 &5076385534212534120 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7338194669392618594, guid: 02cda21c46b8383438800dd5b255f164, type: 3}
+  m_PrefabInstance: {fileID: 2568301466257492746}
+  m_PrefabAsset: {fileID: 0}

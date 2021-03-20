@@ -517,11 +517,11 @@ ScriptedImporter:
     - textureName: Ceiling_Tiles_Beige - baseColor
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: Ceiling_Tiles_Beige - normal
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: Ceiling_Tiles_Beige - roughness
       wrapMode: 0
       filterMode: 1
@@ -533,7 +533,7 @@ ScriptedImporter:
     - textureName: Ceiling_Tiles_Beige - height
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: Ceiling_Tiles_Beige - ambientOcclusion
       wrapMode: 0
       filterMode: 1
@@ -1063,11 +1063,11 @@ ScriptedImporter:
     - textureName: Ceiling_Tiles_Beige_High - baseColor
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: Ceiling_Tiles_Beige_High - normal
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: Ceiling_Tiles_Beige_High - roughness
       wrapMode: 0
       filterMode: 1
@@ -1079,7 +1079,7 @@ ScriptedImporter:
     - textureName: Ceiling_Tiles_Beige_High - height
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: Ceiling_Tiles_Beige_High - ambientOcclusion
       wrapMode: 0
       filterMode: 1
@@ -1609,11 +1609,11 @@ ScriptedImporter:
     - textureName: Ceiling_Tiles_Grey - baseColor
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: Ceiling_Tiles_Grey - normal
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: Ceiling_Tiles_Grey - roughness
       wrapMode: 0
       filterMode: 1
@@ -1625,7 +1625,7 @@ ScriptedImporter:
     - textureName: Ceiling_Tiles_Grey - height
       wrapMode: 0
       filterMode: 1
-      aniso: 1
+      aniso: 5
     - textureName: Ceiling_Tiles_Grey - ambientOcclusion
       wrapMode: 0
       filterMode: 1
